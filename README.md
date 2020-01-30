@@ -5,4 +5,4 @@ Pour lancer le jeu :
 
 Tape dans ton Terminal : ruby app.rb
 
-Et puis commence de juer la partie ;)
+Et puis commence de jouer la partie ;)
